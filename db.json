@@ -1,5 +1,6 @@
 
-[
+{
+ "JuegosBD": [
       {
           "id": 4,
           "nombre": "Super Mario Odyssey",
@@ -81,4 +82,4 @@
           "stock": 100
       }
   ]
- 
+ }
